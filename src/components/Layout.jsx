@@ -11,7 +11,7 @@ const Layout = () => {
             </Link>
           </li>
           <li>
-            <Link to="/page01" className="text-white hover:text-gray-400">
+            <Link to="/page01" className="text-white hover:text-gray-400 ">
               One
             </Link>
           </li>
